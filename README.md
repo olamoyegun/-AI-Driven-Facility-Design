@@ -89,6 +89,26 @@ This is an early-stage concept and prototype repository intended to support:
 - Pilot project development
 - Thought leadership in AI-driven facility design
 
+## Funding & Collaboration
+
+This project is being developed as a foundation for funding, pilot projects, and industry collaboration.
+
+We are seeking collaboration in:
+- AVEVA E3D / PML workflow development
+- Oil and gas facility design pilots
+- AI-assisted engineering automation
+- Digital twin integration
+- Refinery redesign and brownfield upgrade use cases
+
+Potential partners include:
+
+- Oil and gas operators
+- EPC contractors
+- National oil companies
+- Technology vendors
+- Development finance institutions
+- Research institutions
+
 ## Disclaimer
 
 This repository is a conceptual and prototype project. Any generated engineering output must be reviewed, validated, and approved by qualified engineers before use in real projects.
