@@ -1,4 +1,4 @@
-# AI-Driven Refinery Design Transformation Using PML Macros
+# AI-Driven Facilities Design Transformation Using PML Macros
 >Preserving engineering expertise and enabling AI-assisted Oil and Gas facility redesign.
 
 ## Overview
@@ -21,22 +21,33 @@ This project explores how AI can capture and reuse that knowledge by:
 4. Generating revised PML macros for review and re-import
 5. Validating outputs against engineering rules and naming standards
 
-## Proof-of-Concept Case Study
+## Proof of Execution (Tested in AVEVA E3D Environment)
 
-The first case study focuses on a mechanical equipment item with connected piping.
+A sample test was conducted using an actual AVEVA E3D model.
 
-### Example Prompt
+### Test Setup
 
-> Increase the size of the equipment by 1.5 while maintaining proportion, preserving location and orientation, retaining connected piping relationships, and creating a unique equipment name based on the project naming convention.
+- Selected an existing mechanical equipment
+- Included connected piping and nozzle relationships
+- Exported design logic as PML macro
+- Used AI (Copilot-style prompt workflow) to modify design
 
-### Expected Output
+### Prompt Used
 
-- Scaled equipment geometry
-- Preserved location and orientation
-- Retained pipe/nozzle relationships
-- New compliant equipment name
-- Revised PML macro
-- Engineering validation report
+Increase the size of the equipment by 1.5 while maintaining its proportion, preserving location and orientation, retaining connected piping relationships, and generating a unique equipment name based on the naming convention.
+
+### Results
+
+- Equipment geometry successfully scaled by 1.5x
+- Proportions preserved
+- Original location and orientation maintained
+- Pipe connectivity retained
+- New equipment name generated following naming convention
+- Modified PML macro reviewed and applied successfully
+
+### Outcome
+
+The modified design behaved as expected within the A
 
 ## Strategic Vision
 
