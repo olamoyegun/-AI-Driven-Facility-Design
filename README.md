@@ -1,4 +1,5 @@
 # AI-Driven Refinery Design Transformation Using PML Macros
+>Preserving engineering expertise and enabling AI-assisted Oil and Gas facility redesign.
 
 ## Overview
 
