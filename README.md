@@ -1,8 +1,8 @@
-# AI-Driven Refinery Design Transformation Using AVEVA E3D PML Macros
+# AI-Driven Refinery Design Transformation Using PML Macros
 
 ## Overview
 
-This project demonstrates how Generative AI can support oil and gas facility redesign by preserving engineering expertise from existing AVEVA E3D models.
+This project demonstrates how Generative AI can support oil and gas facility redesign by preserving engineering expertise from existing 3D models.
 
 The proof-of-concept focuses on exporting PML macros from an existing mechanical equipment model with connected piping, then using AI to generate a modified design based on an engineering prompt.
 
@@ -14,7 +14,7 @@ Existing refinery and oil and gas facility designs contain valuable engineering 
 
 This project explores how AI can capture and reuse that knowledge by:
 
-1. Exporting design logic from AVEVA E3D as PML macros
+1. Exporting design logic from 3D as PML macros
 2. Interpreting the geometry, connectivity, and metadata
 3. Applying prompt-driven engineering transformations
 4. Generating revised PML macros for review and re-import
